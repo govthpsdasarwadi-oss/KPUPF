@@ -1,0 +1,8 @@
+{
+  "name": "ZenUPSC - Distraction-Free UPSC CSE Preparation",
+  "description": "Production-grade UPSC Civil Services preparation platform with a 100-question timed Prelims simulator, multi-level subject & PYQ bank, GS-1/2/3 current affairs compendium, and performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
